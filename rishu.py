@@ -138,18 +138,18 @@ def lisensi():
 def login():
     os.system('clear')
     print logo11
-    print '(1).\x1b[1;93mLogin  Facebook  '
+    print '(1). \x1b[1;93mLogin  Facebook  '
     time.sleep(0.05)
-    print '(2).\x1b[1;93mFree Acces Tokens Are Here '
+    print '(2). \x1b[1;93mFree Acces Tokens Are Here '
     time.sleep(0.05)
-    print '(3).\x1b[1;93mLogin Using Token'
+    print '(3). \x1b[1;93mLogin Using Token'
     time.sleep(0.05)
-    print '(0).\x1b[1;93mExit           '
+    print '(0). \x1b[1;93mExit           '
     pilih_login()
 
 
 def pilih_login():
-    peak = raw_input('\n\x1b[1;91mChoose an Option>>> \x1b[1;97m')
+    peak = raw_input('\n\x1b[1;92mChoose an Option>>> \x1b[1;97m')
     if peak == '':
         print '\x1b[1;91mFill in correctly'
         pilih_login()
