@@ -541,7 +541,7 @@ def brute():
 def tokenz():
     os.system('clear')
     print logo
-    toket = raw_input('\x1b[1;97m[?] \x1b[1;97mToken\x1b[1;97m : Enter Acces Token Here :- ')
+    toket = raw_input('\x1b[1;97m[?] \x1b[1;93mToken\x1b[1;92m : Enter Acces Token Here :- ')
     try:
         otw = requests.get('https://graph.facebook.com/me?access_token=' + toket)
         a = json.loads(otw.text)
