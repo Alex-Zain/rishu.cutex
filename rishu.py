@@ -138,13 +138,13 @@ def lisensi():
 def login():
     os.system('clear')
     print logo11
-    print '(1). \x1b[1;93mLogin  Facebook  '
+    print '(1) .\x1b[1;93mLogin  Facebook  '
     time.sleep(0.05)
-    print '(2). \x1b[1;93mFree Acces Tokens Are Here '
+    print '(2) .\x1b[1;93mFree Acces Tokens Are Here '
     time.sleep(0.05)
-    print '(3). \x1b[1;93mLogin Using Token'
+    print '(3) .\x1b[1;93mLogin Using Token'
     time.sleep(0.05)
-    print '(0). \x1b[1;93mExit           '
+    print '(0) .\x1b[1;93mExit           '
     pilih_login()
 
 
@@ -329,8 +329,7 @@ def pilih_crack():
             os.system('clear')
             print logo
             jjt = raw_input('\x1b[1;93mEnter ID : \x1b[1;92m')
-            print '\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x96\xb8\xe2\x96\xb9\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85'
-            try:
+            print 'This Tools By Rishu Khan\n===============================\n\n'            try:
                 m = requests.get('https://graph.facebook.com/' + jjt + '?access_token=' + toket)
                 td = json.loads(m.text)
                 print '\x1b[1;93mName\x1b[1;97m:\x1b[1;92m ' + td['name']
