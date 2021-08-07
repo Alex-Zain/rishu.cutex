@@ -263,9 +263,9 @@ def menu():
     print logo2
     print '\x1b[1;92mLogged in User Info'
     time.sleep(0.05)
-    print '\t  \x1b[1;93m Name\x1b[1;97m:\x1b[1;97m' + nama + '\x1b[1;92m               '
+    print '\t  \x1b[1;93m Name\x1b[1;92m:\x1b[1;92m' + nama + '\x1b[1;92m               '
     time.sleep(0.05)
-    print '\t   ID\x1b[1;93m:\x1b[1;97m' + id + '\x1b[1;92m              '
+    print '\t   ID\x1b[1;93m:\x1b[1;92m' + id + '\x1b[1;92m              '
     time.sleep(0.05)
     print '===================================\x1b[1;91m'
     time.sleep(0.05)
