@@ -595,6 +595,3 @@ def get(data):
 
 if __name__ == '__main__':
     login() 
-
-
-	DECOMPILED BY MHANK BARBAR
