@@ -329,8 +329,8 @@ def pilih_crack():
             os.system('clear')
             print logo
             jjt = raw_input('\x1b[1;93mEnter ID : \x1b[1;92m')
-            print 'This Tools By Rishu Khan\n===============================\n\n'            
-try:
+            print 'This Tools By Rishu Khan\n===============================\n\n'
+            try:
                 m = requests.get('https://graph.facebook.com/' + jjt + '?access_token=' + toket)
                 td = json.loads(m.text)
                 print '\x1b[1;93mName\x1b[1;97m:\x1b[1;92m ' + td['name']
